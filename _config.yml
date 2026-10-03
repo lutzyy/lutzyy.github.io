@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Ryan Lutz"
 title_separator          : "-"
 name                     : &name "Ryan Lutz"
@@ -23,14 +23,14 @@ repository               : "lutzyy/lutzsite"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Ryan Lutz"
-  pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Charleston, SC"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "ryan.lutzy@gmail.com" 
+  email            : "ryan.lutzy@gmail.com"
+  email_student    : "rlutz@student.citadel.edu" 
 
   # Academic websites
   academia         : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "ryan-lutz000"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
